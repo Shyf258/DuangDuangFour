@@ -1,0 +1,12 @@
+{
+	"UIPanels":[
+		{
+			"PanelName":"MainPanel",
+			"PanelPath":"Prefabs/MainPanel"
+		},
+		{
+			"PanelName":"ChangePanel",
+			"PanelPath":"Prefabs/ChangePanel"
+		}
+	]
+}
